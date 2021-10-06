@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vesnaguja/interview-reports/static/css/main.4abc5de0.chunk.css",
-    "main.js": "/vesnaguja/interview-reports/static/js/main.09eb4255.chunk.js",
-    "main.js.map": "/vesnaguja/interview-reports/static/js/main.09eb4255.chunk.js.map",
-    "runtime-main.js": "/vesnaguja/interview-reports/static/js/runtime-main.5e4f8869.js",
-    "runtime-main.js.map": "/vesnaguja/interview-reports/static/js/runtime-main.5e4f8869.js.map",
-    "static/css/2.f2512455.chunk.css": "/vesnaguja/interview-reports/static/css/2.f2512455.chunk.css",
-    "static/js/2.7dbc9553.chunk.js": "/vesnaguja/interview-reports/static/js/2.7dbc9553.chunk.js",
-    "static/js/2.7dbc9553.chunk.js.map": "/vesnaguja/interview-reports/static/js/2.7dbc9553.chunk.js.map",
-    "index.html": "/vesnaguja/interview-reports/index.html",
-    "static/css/2.f2512455.chunk.css.map": "/vesnaguja/interview-reports/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.4abc5de0.chunk.css.map": "/vesnaguja/interview-reports/static/css/main.4abc5de0.chunk.css.map",
-    "static/js/2.7dbc9553.chunk.js.LICENSE.txt": "/vesnaguja/interview-reports/static/js/2.7dbc9553.chunk.js.LICENSE.txt"
+    "main.css": "/interview-reports/static/css/main.4abc5de0.chunk.css",
+    "main.js": "/interview-reports/static/js/main.09eb4255.chunk.js",
+    "main.js.map": "/interview-reports/static/js/main.09eb4255.chunk.js.map",
+    "runtime-main.js": "/interview-reports/static/js/runtime-main.6ed9458c.js",
+    "runtime-main.js.map": "/interview-reports/static/js/runtime-main.6ed9458c.js.map",
+    "static/css/2.f2512455.chunk.css": "/interview-reports/static/css/2.f2512455.chunk.css",
+    "static/js/2.7dbc9553.chunk.js": "/interview-reports/static/js/2.7dbc9553.chunk.js",
+    "static/js/2.7dbc9553.chunk.js.map": "/interview-reports/static/js/2.7dbc9553.chunk.js.map",
+    "index.html": "/interview-reports/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/interview-reports/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.4abc5de0.chunk.css.map": "/interview-reports/static/css/main.4abc5de0.chunk.css.map",
+    "static/js/2.7dbc9553.chunk.js.LICENSE.txt": "/interview-reports/static/js/2.7dbc9553.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e4f8869.js",
+    "static/js/runtime-main.6ed9458c.js",
     "static/css/2.f2512455.chunk.css",
     "static/js/2.7dbc9553.chunk.js",
     "static/css/main.4abc5de0.chunk.css",
